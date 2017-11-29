@@ -16,20 +16,18 @@
   /* Estilos de menu de navegación global del site */
   .header {
     width: 109%;
-    height: 80px;
-    background: #000;
+    height: 5em;
     color: #FFF;
-    padding: 20px 30px 0 30px;
+    padding: 1.25em 1.875em 0 1.875em;
   }
   .header img {
-    width: 30%;
     height: auto;
     display: inline-block;
   }
   .menu-movil {
     float: right;
     display: inline-block;
-    margin-top: 8px;
+    margin-top: 0.5em;
   }
   .menu {
     display: none;
@@ -37,15 +35,14 @@
   /* Estilos sección 1 */
   .box-img {
     width: 109%;
-    height: 400px;
     background-size: cover;
     background-position: right;
   }
   /* Estilos sección 2 */
   .box-text {
-    width: 350px;
-    padding-top: 50px;
-    margin-left: 33px;
+    width: 21.875em;
+    padding-top: 3.125em;
+    margin-left: 2.0625em;
   }
   .row {
     display: block;
@@ -55,31 +52,26 @@
     font-size: 1.7em;
   }
   .imgs {
-    margin-top: 50px;
-    margin-left: 33px;
+    margin-left: 2.0625em;
   }
   .img1, .img2, .img3 {
-    width: 300px;
-    margin-right: 70px;
-    margin-top: 50px;
-    float: left;
+    margin-top: 3.125em;
   }
   .imgs img {
-    width: 330px;
-    height: auto;
+    width: 20.625em;
   }
   .btn {
-    width: 150px;
-    height: 50px;
+    width: 9.375em;
+    height: 3.125em;
     font-size: 1.2em;
-    margin-bottom: 80px;
-    padding-top: 10px;
+    margin-bottom: 5em;
+    padding-top: 0.625em;
   }
   /* Estilos Pié de página */
   .footer {
     width: 109%;
-    height: 150px;
-    padding-top: 60px;
+    height: 9.375em;
+    padding-top: 3.75em;
     clear: left;
   }
   h4 {
@@ -105,35 +97,27 @@
   .header {
     width: 100%;
     height: 80px;
-    background: #000;
     color: #FFF;
     padding: 20px 30px 0 30px;
-  }
-  .header img {
-    width: 30%;
-    height: auto;
-    display: inline-block;
   }
   .menu-movil {
     float: right;
     display: inline-block;
-    margin-top: 8px;
+    margin-top: 0.5em;
   }
   .menu {
     display: none;
   }
   /* Estilos sección 1 */
   .box-img {
-    width: 100%;
-    height: 400px;
     background-size: cover;
     background-position: right;
   }
   /* Estilos sección 2 */
   .box-text {
-    width: 350px;
-    padding-top: 50px;
-    margin-left: 33px;
+    width: 21.875em;
+    padding-top: 3.125em;
+    margin-left: 2.0625em;
   }
   .row {
     display: block;
@@ -143,36 +127,25 @@
     font-size: 1.7em;
   }
   .imgs {
-    margin-top: 50px;
-    margin-left: 33px;
-  }
-  .img1, .img2, .img3 {
-    width: 350px;
-    margin-right: 70px;
-    margin-top: 50px;
-    float: left;
-  }
-  .imgs img {
-    width: 350px;
-    height: auto;
+    margin-top: 3.125em;
+    margin-left: 2.0625em;
   }
   .btn {
-    width: 150px;
-    height: 50px;
+    width: 9.375em;
+    height: 3.125em;
     font-size: 1.2em;
-    margin-bottom: 80px;
-    padding-top: 10px;
+    margin-bottom: 5em;
+    padding-top: 0.625em;
   }
   /* Estilos Pié de página */
   .footer {
     width: 100%;
-    height: 150px;
-    padding-top: 60px;
+    height: 9.375em;
+    padding-top: 3.75em;
     clear: left;
   }
   h4 {
     font-size: 1.3em;
-    font-weight: lighter;
   }
 }
 
