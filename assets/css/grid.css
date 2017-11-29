@@ -11,7 +11,7 @@
 /* Containers */
 .container,
 .container-fluid {
-  width: 100%;
+  width: 80%;
   margin-right: auto;
   margin-left: auto;
   padding-right: calc(var(--grid-gutter-width) / 2);
